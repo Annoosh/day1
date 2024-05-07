@@ -1,31 +1,3 @@
-// function myFunction() {
-//     // alert("Your application will be processed")
-//     document.getElementById("demo").innerHTML = "Hello World!";
-//   }
-//   function validateForm() {
-//     var name = document.getElementById("name").value;
-//     var email = document.getElementById("email").value;
-     
- 
-
-//     if (name == "") {
-//         alert("Please enter your name.");
-//         return false;
-//     } 
-//     if (email == "") {
-//         alert("Please enter your email address.");
-//         return false;
- 
-//     } 
-//     // else if (email.count() <6)
-//     //     {
-//     //         alert("add more");
-//     //         return false;
-//     //     }
-   
-//     alert("Your application will be processed");
-// }
-
 function validateForm() {
     var name = document.getElementById("name").value;
     var email = document.getElementById("email").value;
